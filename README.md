@@ -1,6 +1,6 @@
-Pattern Pad - https://patternpad.com/
-Shape Divider - https://www.shapedivider.app/
-unDraw - https://undraw.co/
-Uiverse - https://uiverse.io/
-CSS Buttons - https://cssbuttons.io/
-Neumorphism - https://neumorphism.io/#e0e0e0
+Pattern Pad - https://patternpad.com/<br>
+Shape Divider - https://www.shapedivider.app/<br>
+unDraw - https://undraw.co/<br>
+Uiverse - https://uiverse.io/<br>
+CSS Buttons - https://cssbuttons.io/<br>
+Neumorphism - https://neumorphism.io/#e0e0e0<br>
