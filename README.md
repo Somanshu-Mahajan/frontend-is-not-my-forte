@@ -9,6 +9,7 @@
 - **<a href="https://www.heropatterns.com/" target="_blank">Hero Patterns</a>** – Free SVG background patterns  
 - **<a href="https://www.blobmaker.app/" target="_blank">Blobmaker</a>** – Generate organic blob shapes in CSS  
 - **<a href="https://app.haikei.app/" target="_blank">Haikei</a>** – SVG backgrounds & abstract shapes  
+- **<a href="https://darkcssweb.com/">DarkCSS</a>** – CSS Tricks 
 
 # 🎛️ CSS Components & UI Elements  
 - **<a href="https://uiverse.io/" target="_blank">Uiverse</a>** – Community-driven CSS elements  
