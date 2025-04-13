@@ -15,7 +15,6 @@
 - **<a href="https://cssbuttons.io/" target="_blank">CSS Buttons</a>** – Unique button styles  
 - **<a href="https://neumorphism.io/" target="_blank">Neumorphism Generator</a>** – Soft UI design generator  
 - **<a href="https://cssloaders.github.io/" target="_blank">CSS Loaders</a>** – Animated loading spinners  
-- **<a href="https://cssfx.dev/" target="_blank">CSSFX</a>** – Hover & click effects in pure CSS  
 - **<a href="https://www.minimamente.com/project/magic/" target="_blank">Magic Animations</a>** – Prebuilt CSS animations  
 - **<a href="https://ianlunn.github.io/Hover/" target="_blank">Hover.css</a>** – Simple hover effects  
 - **<a href="https://kazzkiq.github.io/balloon.css/" target="_blank">CSS Tooltips (Balloon.css)</a>** – Lightweight tooltips  
