@@ -9,7 +9,6 @@
 - **<a href="https://www.heropatterns.com/" target="_blank">Hero Patterns</a>** – Free SVG background patterns  
 - **<a href="https://www.blobmaker.app/" target="_blank">Blobmaker</a>** – Generate organic blob shapes in CSS  
 - **<a href="https://app.haikei.app/" target="_blank">Haikei</a>** – SVG backgrounds & abstract shapes  
-- **<a href="https://darkcssweb.com/">DarkCSS</a>** – CSS Tricks 
 
 # 🎛️ CSS Components & UI Elements  
 - **<a href="https://uiverse.io/" target="_blank">Uiverse</a>** – Community-driven CSS elements  
@@ -21,7 +20,8 @@
 - **<a href="https://ianlunn.github.io/Hover/" target="_blank">Hover.css</a>** – Simple hover effects  
 - **<a href="https://kazzkiq.github.io/balloon.css/" target="_blank">CSS Tooltips (Balloon.css)</a>** – Lightweight tooltips  
 - **<a href="https://html5up.net/" target="_blank">HTML5 UP</a>** – Free HTML & CSS templates  
-- **<a href="https://csslayout.io/" target="_blank">CSS Layout</a>** – Pre-built modern layouts  
+- **<a href="https://csslayout.io/" target="_blank">CSS Layout</a>** – Pre-built modern layouts
+- **<a href="https://darkcssweb.com/">DarkCSS</a>** – CSS Tricks 
 
 # 🎭 Typography & Icons  
 - **<a href="https://fonts.google.com/" target="_blank">Google Fonts</a>** – Free web fonts  
