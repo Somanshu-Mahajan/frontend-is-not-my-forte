@@ -46,4 +46,6 @@
 - **<a href="https://flexbox.malven.co/" target="_blank">Flexbox Cheatsheet</a>** – Visual flexbox guide  
 - **<a href="https://layout.bradwoods.io/" target="_blank">Grid Layout Generator</a>** – Drag & drop CSS grids  
 - **<a href="https://bennettfeely.com/clippy/" target="_blank">CSS Clip Path Generator</a>** – Shape elements with clip-path  
-- **<a href="https://css-tricks.com/the-shapes-of-css/" target="_blank">CSS Triangle Generator</a>** – Create triangles in CSS  
+- **<a href="https://css-tricks.com/the-shapes-of-css/" target="_blank">CSS Triangle Generator</a>** – Create triangles in CSS
+- **<a href="https://same.new/" target="_blank"></a>** – Cloning other websites
+
