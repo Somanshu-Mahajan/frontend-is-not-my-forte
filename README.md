@@ -19,7 +19,6 @@
 - **<a href="https://ianlunn.github.io/Hover/" target="_blank">Hover.css</a>** – Simple hover effects  
 - **<a href="https://kazzkiq.github.io/balloon.css/" target="_blank">CSS Tooltips (Balloon.css)</a>** – Lightweight tooltips  
 - **<a href="https://html5up.net/" target="_blank">HTML5 UP</a>** – Free HTML & CSS templates  
-- **<a href="https://csslayout.io/" target="_blank">CSS Layout</a>** – Pre-built modern layouts
 
 # 🎭 Typography & Icons  
 - **<a href="https://fonts.google.com/" target="_blank">Google Fonts</a>** – Free web fonts  
