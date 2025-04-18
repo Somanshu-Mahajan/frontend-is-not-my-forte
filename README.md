@@ -20,7 +20,6 @@
 - **<a href="https://kazzkiq.github.io/balloon.css/" target="_blank">CSS Tooltips (Balloon.css)</a>** – Lightweight tooltips  
 - **<a href="https://html5up.net/" target="_blank">HTML5 UP</a>** – Free HTML & CSS templates  
 - **<a href="https://csslayout.io/" target="_blank">CSS Layout</a>** – Pre-built modern layouts
-- **<a href="https://darkcssweb.com/">DarkCSS</a>** – CSS Tricks 
 
 # 🎭 Typography & Icons  
 - **<a href="https://fonts.google.com/" target="_blank">Google Fonts</a>** – Free web fonts  
@@ -48,4 +47,4 @@
 - **<a href="https://bennettfeely.com/clippy/" target="_blank">CSS Clip Path Generator</a>** – Shape elements with clip-path  
 - **<a href="https://css-tricks.com/the-shapes-of-css/" target="_blank">CSS Triangle Generator</a>** – Create triangles in CSS
 - **<a href="https://same.new/" target="_blank">Same.new</a>** – Cloning other websites
-
+- **<a href="https://darkcssweb.com/">DarkCSS</a>** – CSS Tricks 
