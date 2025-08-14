@@ -60,7 +60,6 @@ If you are a copyright owner and would like a link removed, please open an issue
 
 ## CSS Tools & Layout Utilities
 *Cheatsheets, layout generators, and shape creators.*  
-- [CSS Tricks Snippets](https://css-tricks.com/snippets/css/) – Collection of useful CSS tricks  
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) – Interactive CSS grid builder  
 - [Flexbox Cheatsheet](https://flexbox.malven.co/) – Visual flexbox guide  
 - [Grid Layout Generator](https://layout.bradwoods.io/) – Drag & drop CSS grids  
@@ -72,4 +71,5 @@ If you are a copyright owner and would like a link removed, please open an issue
 ## Development & Cloning Tools
 *Tools for web cloning, inspection, and miscellaneous helpers.*  
 - [Same.new](https://same.new/) – Clone other websites  
-- [DarkCSS](https://darkcssweb.com/) – CSS tricks collection  
+- [DarkCSS](https://darkcssweb.com/) – CSS tricks collection
+- [CSS Tricks Snippets](https://css-tricks.com/snippets/css/) – Collection of useful CSS tricks  
