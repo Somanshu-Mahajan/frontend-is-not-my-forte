@@ -21,7 +21,6 @@ If you are a copyright owner and would like a link removed, please open an issue
 - [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) – Complex border-radius shapes  
 - [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator) – Glassmorphism effects  
 - [Neumorphism Generator](https://neumorphism.io/) – Soft UI design generator  
-- [Smooth Shadow Generator](https://shadows.brumm.af/) – CSS box-shadow tool  
 
 ---
 
