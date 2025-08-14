@@ -17,7 +17,7 @@ If you find a broken link, please [open an issue](../../issues) or submit a PR.
 ---
 
 ## License
-This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+This project is licensed under the **Creative Commons Zero v1.0 Universal**.  
 See the [LICENSE](LICENSE) file for details.
 
 ---
