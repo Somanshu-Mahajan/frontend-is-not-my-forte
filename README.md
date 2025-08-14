@@ -4,6 +4,8 @@ I do not own or maintain any of the linked websites, apps, or services.
 All credit for the content belongs to their respective creators and owners.  
 If you are a copyright owner and would like a link removed, please open an issue.
 
+---
+
 ## Design & Background Generators
 *Tools for generating gradients, patterns, shapes, and decorative visuals.*  
 - [PatternPad](https://patternpad.com/) – CSS pattern generator  
@@ -72,4 +74,11 @@ If you are a copyright owner and would like a link removed, please open an issue
 *Tools for web cloning, inspection, and miscellaneous helpers.*  
 - [Same.new](https://same.new/) – Clone other websites  
 - [DarkCSS](https://darkcssweb.com/) – CSS tricks collection
-- [CSS Tricks Snippets](https://css-tricks.com/snippets/css/) – Collection of useful CSS tricks  
+- [CSS Tricks Snippets](https://css-tricks.com/snippets/css/) – Collection of useful CSS tricks
+
+---
+
+##  Support
+If you find this list helpful, please consider giving it a ⭐ on GitHub!  
+It helps others discover the project and motivates more updates.
+
