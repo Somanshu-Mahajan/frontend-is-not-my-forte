@@ -1,50 +1,70 @@
-# 🎨 Design & Visual Effects  
-- **<a href="https://patternpad.com/" target="_blank">PatternPad</a>** – CSS pattern generator  
-- **<a href="https://www.shapedivider.app/" target="_blank">Shape Divider</a>** – Custom shape dividers for sections  
-- **<a href="https://undraw.co/" target="_blank">unDraw</a>** – Free SVG illustrations  
-- **<a href="https://cssgradient.io/" target="_blank">CSS Gradient</a>** – Generate beautiful CSS gradients  
-- **<a href="https://9elements.github.io/fancy-border-radius/" target="_blank">Fancy Border Radius</a>** – Create complex border-radius shapes  
-- **<a href="https://hype4.academy/tools/glassmorphism-generator" target="_blank">Glassmorphism Generator</a>** – Generate glassmorphism effects  
-- **<a href="https://getwaves.io/" target="_blank">SVG Waves Generator</a>** – Create wavy SVG dividers  
-- **<a href="https://www.heropatterns.com/" target="_blank">Hero Patterns</a>** – Free SVG background patterns  
-- **<a href="https://www.blobmaker.app/" target="_blank">Blobmaker</a>** – Generate organic blob shapes in CSS  
-- **<a href="https://app.haikei.app/" target="_blank">Haikei</a>** – SVG backgrounds & abstract shapes  
+## Design & Background Generators
+*Tools for generating gradients, patterns, shapes, and decorative visuals.*  
+- [PatternPad](https://patternpad.com/) – CSS pattern generator  
+- [Hero Patterns](https://www.heropatterns.com/) – Free SVG background patterns  
+- [CSS Gradient](https://cssgradient.io/) – Generate CSS gradients  
+- [SVG Waves Generator](https://getwaves.io/) – Wavy SVG dividers  
+- [Blobmaker](https://www.blobmaker.app/) – Organic blob shapes  
+- [Haikei](https://app.haikei.app/) – SVG backgrounds & abstract shapes  
+- [Shape Divider](https://www.shapedivider.app/) – Custom shape dividers  
 
-# 🎛️ CSS Components & UI Elements  
-- **<a href="https://uiverse.io/" target="_blank">Uiverse</a>** – Community-driven CSS elements  
-- **<a href="https://cssbuttons.io/" target="_blank">CSS Buttons</a>** – Unique button styles  
-- **<a href="https://neumorphism.io/" target="_blank">Neumorphism Generator</a>** – Soft UI design generator  
-- **<a href="https://cssloaders.github.io/" target="_blank">CSS Loaders</a>** – Animated loading spinners  
-- **<a href="https://www.minimamente.com/project/magic/" target="_blank">Magic Animations</a>** – Prebuilt CSS animations  
-- **<a href="https://ianlunn.github.io/Hover/" target="_blank">Hover.css</a>** – Simple hover effects  
-- **<a href="https://kazzkiq.github.io/balloon.css/" target="_blank">CSS Tooltips (Balloon.css)</a>** – Lightweight tooltips  
-- **<a href="https://html5up.net/" target="_blank">HTML5 UP</a>** – Free HTML & CSS templates  
-- **<a href="https://cssgridgenerator.io/" target="_blank">CSS Grid Generator</a>** – Generate Grids 
+---
 
-# 🎭 Typography & Icons  
-- **<a href="https://fonts.google.com/" target="_blank">Google Fonts</a>** – Free web fonts  
-- **<a href="https://www.w3schools.com/charsets/ref_utf_basic_latin.asp" target="_blank">HTML UTF-8 Characters</a>** – Special character reference  
-- **<a href="https://www.w3schools.com/charsets/ref_emoji_smileys.asp" target="_blank">UTF-8 Emoji Reference</a>** – Emoji list  
-- **<a href="https://www.w3schools.com/charsets/ref_html_entities_a.asp" target="_blank">HTML Entities List</a>** – Common HTML entities  
-- **<a href="https://ionic.io/ionicons" target="_blank">Ionicons</a>** – Open-source icons  
-- **<a href="https://fontawesome.com/" target="_blank">FontAwesome</a>** – Popular icon set  
-- **<a href="https://devicon.dev/" target="_blank">Devicon</a>** – Icons for programming languages  
+## Visual Effects & Styling
+*Effects and styling tools for borders, shadows, and modern UI looks.*  
+- [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) – Complex border-radius shapes  
+- [Glassmorphism Generator](https://hype4.academy/tools/glassmorphism-generator) – Glassmorphism effects  
+- [Neumorphism Generator](https://neumorphism.io/) – Soft UI design generator  
+- [Smooth Shadow Generator](https://shadows.brumm.af/) – CSS box-shadow tool  
 
-# 🎬 CSS Animations & Effects  
-- **<a href="https://animista.net/" target="_blank">Animista</a>** – Custom CSS animations  
-- **<a href="https://easingwizard.com/" target="_blank">Easing Wizard</a>** – Easing function generator  
-- **<a href="https://easings.net/" target="_blank">Easings.net</a>** – CSS easing functions reference  
-- **<a href="https://www.css3maker.com/css3-transition.html" target="_blank">CSS3 Transitions Generator</a>** – Generate transition effects  
-- **<a href="https://shadows.brumm.af/" target="_blank">Smooth Shadow Generator</a>** – CSS box-shadow tool  
-- **<a href="https://css-doodle.com/" target="_blank">CSS Doodle</a>** – Generate creative CSS patterns  
-- **<a href="https://whirl.netlify.app/" target="_blank">Whirl</a>** – CSS-only animated loaders  
+---
 
-# 📏 CSS Tools & Utilities  
-- **<a href="https://css-tricks.com/snippets/css/" target="_blank">CSS Tricks Snippets</a>** – Collection of useful CSS tricks  
-- **<a href="https://cssgrid-generator.netlify.app/" target="_blank">CSS Grid Generator</a>** – Interactive CSS grid builder  
-- **<a href="https://flexbox.malven.co/" target="_blank">Flexbox Cheatsheet</a>** – Visual flexbox guide  
-- **<a href="https://layout.bradwoods.io/" target="_blank">Grid Layout Generator</a>** – Drag & drop CSS grids  
-- **<a href="https://bennettfeely.com/clippy/" target="_blank">CSS Clip Path Generator</a>** – Shape elements with clip-path  
-- **<a href="https://css-tricks.com/the-shapes-of-css/" target="_blank">CSS Triangle Generator</a>** – Create triangles in CSS
-- **<a href="https://same.new/" target="_blank">Same.new</a>** – Cloning other websites
-- **<a href="https://darkcssweb.com/">DarkCSS</a>** – CSS Tricks 
+## UI Components & Templates
+*Prebuilt CSS components, loaders, tooltips, and templates.*  
+- [Uiverse](https://uiverse.io/) – Community-driven CSS elements  
+- [CSS Buttons](https://cssbuttons.io/) – Unique button styles  
+- [CSS Loaders](https://cssloaders.github.io/) – Animated loading spinners  
+- [Magic Animations](https://www.minimamente.com/project/magic/) – Prebuilt CSS animations  
+- [Hover.css](https://ianlunn.github.io/Hover/) – Simple hover effects  
+- [Balloon.css](https://kazzkiq.github.io/balloon.css/) – Lightweight tooltips  
+- [HTML5 UP](https://html5up.net/) – Free HTML & CSS templates  
+
+---
+
+## Typography & Icons
+*Fonts, special characters, emojis, and icon libraries.*  
+- [Google Fonts](https://fonts.google.com/) – Free web fonts  
+- [HTML UTF-8 Characters](https://www.w3schools.com/charsets/ref_utf_basic_latin.asp) – Special character reference  
+- [UTF-8 Emoji Reference](https://www.w3schools.com/charsets/ref_emoji_smileys.asp) – Emoji list  
+- [HTML Entities List](https://www.w3schools.com/charsets/ref_html_entities_a.asp) – Common HTML entities  
+- [Ionicons](https://ionic.io/ionicons) – Open-source icons  
+- [FontAwesome](https://fontawesome.com/) – Popular icon set  
+- [Devicon](https://devicon.dev/) – Icons for programming languages  
+
+---
+
+## Animations & Motion
+*Animation generators, easing functions, transitions, and loaders.*  
+- [Animista](https://animista.net/) – Custom CSS animations  
+- [Easing Wizard](https://easingwizard.com/) – Easing function generator  
+- [Easings.net](https://easings.net/) – CSS easing functions reference  
+- [CSS3 Transitions Generator](https://www.css3maker.com/css3-transition.html) – Transition effects  
+- [Whirl](https://whirl.netlify.app/) – CSS-only animated loaders  
+
+---
+
+## CSS Tools & Layout Utilities
+*Cheatsheets, layout generators, and shape creators.*  
+- [CSS Tricks Snippets](https://css-tricks.com/snippets/css/) – Collection of useful CSS tricks  
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) – Interactive CSS grid builder  
+- [Flexbox Cheatsheet](https://flexbox.malven.co/) – Visual flexbox guide  
+- [Grid Layout Generator](https://layout.bradwoods.io/) – Drag & drop CSS grids  
+- [CSS Clip Path Generator](https://bennettfeely.com/clippy/) – Shape elements with clip-path  
+- [CSS Triangle Generator](https://css-tricks.com/the-shapes-of-css/) – Create triangles in CSS  
+
+---
+
+## Development & Cloning Tools
+*Tools for web cloning, inspection, and miscellaneous helpers.*  
+- [Same.new](https://same.new/) – Clone other websites  
+- [DarkCSS](https://darkcssweb.com/) – CSS tricks collection  
