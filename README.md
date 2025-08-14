@@ -1,3 +1,6 @@
+# Frontend Is Not My Forte
+A handpicked collection of **free CSS, UI, and frontend design tools** — patterns, gradients, animations, icons, layouts, and more.
+
 ## Disclaimer
 This repository is a curated list of links to third-party tools and resources.  
 I do not own or maintain any of the linked websites, apps, or services.  
