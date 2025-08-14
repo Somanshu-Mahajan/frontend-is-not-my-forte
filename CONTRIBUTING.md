@@ -6,7 +6,7 @@ We welcome suggestions for new resources, improvements, and fixes.
 
 ---
 
-## 📌 How to Contribute
+## How to Contribute
 
 1. **Fork** the repository.
 2. **Create a new branch** for your changes.
@@ -22,19 +22,19 @@ We welcome suggestions for new resources, improvements, and fixes.
 
 ---
 
-## 🗂 Categories
+## Categories
 Choose the most relevant category for your link:  
-- 🎨 **Design & Background Generators** – Patterns, gradients, shapes, backgrounds.  
-- 🖌 **Visual Effects & Styling** – Borders, shadows, glassmorphism, neumorphism.  
-- 🎛 **UI Components & Templates** – Buttons, loaders, tooltips, complete templates.  
-- ✍ **Typography & Icons** – Fonts, special characters, emojis, icons.  
-- 🎬 **Animations & Motion** – CSS animations, transitions, easing, loaders.  
-- 📏 **CSS Tools & Layout Utilities** – Layout generators, cheatsheets, clip paths, shapes.  
-- 🛠 **Development & Cloning Tools** – Site cloning, CSS tips, miscellaneous helpers.
+- **Design & Background Generators** – Patterns, gradients, shapes, backgrounds.  
+- **Visual Effects & Styling** – Borders, shadows, glassmorphism, neumorphism.  
+- **UI Components & Templates** – Buttons, loaders, tooltips, complete templates.  
+- **Typography & Icons** – Fonts, special characters, emojis, icons.  
+- **Animations & Motion** – CSS animations, transitions, easing, loaders.  
+- **CSS Tools & Layout Utilities** – Layout generators, cheatsheets, clip paths, shapes.  
+- **Development & Cloning Tools** – Site cloning, CSS tips, miscellaneous helpers.
 
 ---
 
-## 🔍 Broken Links
+## Broken Links
 If you find a broken link:  
 - Please **open an issue** describing which link is broken.  
 - Or, even better, **submit a Pull Request** removing or replacing it.
@@ -48,7 +48,7 @@ If you find a broken link:
 
 ---
 
-## ⭐ Tips for a Great Contribution
+## Tips for a Great Contribution
 - Keep descriptions short and clear.  
 - Avoid duplicate entries — search the file before adding.  
 - Add high-quality and reputable resources only.  
