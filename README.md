@@ -64,7 +64,7 @@ If you are a copyright owner and would like a link removed, please open an issue
 - [Flexbox Cheatsheet](https://flexbox.malven.co/) – Visual flexbox guide  
 - [Grid Layout Generator](https://layout.bradwoods.io/) – Drag & drop CSS grids  
 - [CSS Clip Path Generator](https://bennettfeely.com/clippy/) – Shape elements with clip-path  
-- [CSS Triangle Generator](https://css-tricks.com/the-shapes-of-css/) – Create triangles in CSS  
+- [CSS Shapes](https://css-tricks.com/the-shapes-of-css/) – Create triangles in CSS  
 
 ---
 
