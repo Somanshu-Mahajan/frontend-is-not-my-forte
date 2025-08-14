@@ -13,7 +13,7 @@ We welcome suggestions for new resources, improvements, and fixes.
 3. **Add your resource** in the correct category in `README.md`  
    _(New categories are **not** allowed without prior discussion via issue)_.
 4. **Follow the format**:<br>
-   <a href="https://github.com/Somanshu-Mahajan/frontend-is-not-my-forte?tab=contributing-ov-file">Tool Name</a> – Short description
+   <a href="https://github.com/Somanshu-Mahajan/frontend-is-not-my-forte/blob/master/CONTRIBUTING.md">Tool Name</a> – Short description
 5. Make sure the link:
 - Works and is publicly accessible.
 - Points to the official website or source.
