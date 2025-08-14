@@ -9,6 +9,19 @@ If you are a copyright owner and would like a link removed, please open an issue
 
 ---
 
+## Contributing
+We welcome contributions!  
+Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting a pull request.  
+If you find a broken link, please [open an issue](../../issues) or submit a PR.
+
+---
+
+## License
+This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## Design & Background Generators
 *Tools for generating gradients, patterns, shapes, and decorative visuals.*  
 - [PatternPad](https://patternpad.com/) – CSS pattern generator  
