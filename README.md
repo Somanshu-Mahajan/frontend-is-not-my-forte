@@ -55,7 +55,11 @@ See the [LICENSE](LICENSE) file for details.
 - [Magic Animations](https://www.minimamente.com/project/magic/) – Prebuilt CSS animations  
 - [Hover.css](https://ianlunn.github.io/Hover/) – Simple hover effects  
 - [Balloon.css](https://kazzkiq.github.io/balloon.css/) – Lightweight tooltips  
-- [HTML5 UP](https://html5up.net/) – Free HTML & CSS templates  
+- [HTML5 UP](https://html5up.net/) – Free HTML & CSS templates
+- [MUI](https://mui.com/) – React UI component library  
+- [Flowbite](https://flowbite.com/) – Tailwind CSS UI components  
+- [DaisyUI](https://daisyui.com/) – Tailwind component library  
+- [Cruip](https://cruip.com/) – Beautiful landing page templates 
 
 ---
 
@@ -67,7 +71,12 @@ See the [LICENSE](LICENSE) file for details.
 - [HTML Entities List](https://www.w3schools.com/charsets/ref_html_entities_a.asp) – Common HTML entities  
 - [Ionicons](https://ionic.io/ionicons) – Open-source icons  
 - [FontAwesome](https://fontawesome.com/) – Popular icon set  
-- [Devicon](https://devicon.dev/) – Icons for programming languages  
+- [Devicon](https://devicon.dev/) – Icons for programming languages
+- [Google Fonts Pairings](https://fonts.google.com/knowledge/using_type/creating_type_harmony) – Curated Google Fonts combinations  
+- [Font Pair](https://fontpair.co/) – Font pairing inspiration  
+- [Material Icons](https://fonts.google.com/icons) – Official Material Design icons  
+- [Heroicons](https://heroicons.com/) – Free MIT-licensed icons for UI  
+- [SVGRepo](https://www.svgrepo.com/) – Free SVG icons & illustrations 
 
 ---
 
@@ -77,7 +86,12 @@ See the [LICENSE](LICENSE) file for details.
 - [Easing Wizard](https://easingwizard.com/) – Easing function generator  
 - [Easings.net](https://easings.net/) – CSS easing functions reference  
 - [CSS3 Transitions Generator](https://www.css3maker.com/css3-transition.html) – Transition effects  
-- [Whirl](https://whirl.netlify.app/) – CSS-only animated loaders  
+- [Whirl](https://whirl.netlify.app/) – CSS-only animated loaders
+- [Keyframes.app](https://keyframes.app/) – Create custom CSS animations visually  
+- [LottieFiles](https://lottiefiles.com/) – Free animated SVG & JSON files  
+- [Motion One](https://motion.dev/) – Web animation library  
+- [ScrollReveal](https://scrollrevealjs.org/) – Scroll animations for the web  
+- [AOS](https://michalsnik.github.io/aos/) – Animate elements on scroll
 
 ---
 
@@ -87,7 +101,12 @@ See the [LICENSE](LICENSE) file for details.
 - [Flexbox Cheatsheet](https://flexbox.malven.co/) – Visual flexbox guide  
 - [Grid Layout Generator](https://layout.bradwoods.io/) – Drag & drop CSS grids  
 - [CSS Clip Path Generator](https://bennettfeely.com/clippy/) – Shape elements with clip-path  
-- [CSS Shapes](https://css-tricks.com/the-shapes-of-css/) – Create triangles in CSS  
+- [CSS Shapes](https://css-tricks.com/the-shapes-of-css/) – Create triangles in CSS
+- [Grid by Example](https://gridbyexample.com/) – CSS Grid layouts & patterns  
+- [Flexy Boxes](https://the-echoplex.net/flexyboxes/) – Flexbox playground  
+- [CSS Layout](https://csslayout.io/) – Common layout patterns  
+- [ShapeFactory](https://shapefactory.co/) – SVG & CSS shape generators  
+- [Color Contrast Checker](https://contrast-ratio.com/) – Test WCAG contrast ratios
 
 ---
 
