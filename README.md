@@ -72,7 +72,6 @@ See the [LICENSE](LICENSE) file for details.
 - [Ionicons](https://ionic.io/ionicons) – Open-source icons  
 - [FontAwesome](https://fontawesome.com/) – Popular icon set  
 - [Devicon](https://devicon.dev/) – Icons for programming languages
-- [Google Fonts Pairings](https://fonts.google.com/knowledge/using_type/creating_type_harmony) – Curated Google Fonts combinations  
 - [Font Pair](https://fontpair.co/) – Font pairing inspiration  
 - [Material Icons](https://fonts.google.com/icons) – Official Material Design icons  
 - [Heroicons](https://heroicons.com/) – Free MIT-licensed icons for UI  
