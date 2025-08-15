@@ -30,7 +30,12 @@ See the [LICENSE](LICENSE) file for details.
 - [SVG Waves Generator](https://getwaves.io/) – Wavy SVG dividers  
 - [Blobmaker](https://www.blobmaker.app/) – Organic blob shapes  
 - [Haikei](https://app.haikei.app/) – SVG backgrounds & abstract shapes  
-- [Shape Divider](https://www.shapedivider.app/) – Custom shape dividers  
+- [Shape Divider](https://www.shapedivider.app/) – Custom shape dividers
+- [Coolors](https://coolors.co/) - Color palette generator
+- [MyColorSpace](https://mycolor.space/) - Gradient & color palette ideas
+- [Pattern Monster](https://pattern.monster/) - SVG pattern generator
+- [Toptal Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Free seamless patterns
+- [SVGBackgrounds](https://www.svgbackgrounds.com/) – Customizable SVG backgrounds
 
 ---
 
